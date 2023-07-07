@@ -1,0 +1,312 @@
+@charset "UTF -8";
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+ .prime{
+     color: brown;
+ }
+    /* color:rgb(198, 83, 83) ; */
+  body{
+      background-color: white;
+      
+  }  
+ .first{
+    height: 100vh;
+    background-color: #1f2021; 
+    background-image: url("../../images/header_image.jpg"); 
+   background-size: cover;
+   position: relative;
+margin-bottom: 5%;
+ }
+ .first .text {
+    position: absolute;
+    right: 25%;
+    top: 50%;
+    width: auto;
+    padding: 20px;
+    margin:  1% ;
+    
+    font-size: 1rem;
+    font-weight: 650;
+    letter-spacing: 1.5px;
+    color:white;
+    border-left: 5px solid brown ;
+    border-right: 5px solid brown ;
+    background-color: white(0, 0, 0, 0.247);
+    display: flex;
+    justify-content:flex-end;
+   
+  }
+ .gallery{
+   position: relative;
+   width: 100%;
+   height: 300rem;
+   left: 0;
+   top:200rem
+  
+
+ }
+ 
+   
+  
+  .py-2 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-2 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 0;
+    bottom: 478rem;
+    height: 400px;
+  }
+  
+  
+  .py-4 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-4 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left:25.4% ;
+    bottom:479rem ;
+    height: 385px;
+  }
+
+  
+  
+  .py-3 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-3 {
+    border: 1px solid #ccc;
+    position:absolute;
+    width: 22.5%;
+    margin: 10px;
+    bottom: 478rem;
+    left: 51%;
+    height: 400px;
+  }
+   
+  
+  .py-1 img {
+    width: 100%;
+    height: 90%;
+    
+  }
+  
+  .py-1 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 0;
+    bottom: 414rem;
+    height: 500px;
+  }
+  
+  
+  .py-5 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-5 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 25.4%;
+    bottom: 401.5rem;
+    height: 400px;
+  }
+  
+  
+  .py-6 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-6 {
+    border: 1px solid #ccc;
+   position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 25.4%;
+    bottom: 427.5rem;
+    height: 400px;
+  }
+  
+  
+  .py-7 img {
+    width: 100%;
+    height: 90%;
+  }
+  
+  .py-7 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 0;
+bottom: 446rem;
+height: 500px;  }
+  
+  
+  .py-8 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-8 {
+    border: 1px solid #ccc;
+   position: absolute;
+   width: 22.5%;
+   margin: 10px;
+   left: 51%;
+   bottom: 432.6rem;
+   height: 400px;
+  }
+
+  
+  
+  .py-9 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-9 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left:74%;
+    bottom: 452.3rem;
+    height: 400px;
+  }
+  
+  .py-10 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-10 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 24.99999%;
+    margin: 10px;
+    left: 74%;
+    bottom: 400.8rem;
+    height: 400px;
+  }
+  
+  
+  .py-11 img {
+    width: 100%;
+    height: 79%;
+  }
+  
+  .py-11 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 22.5%;
+    margin: 10px;
+    left: 51%;
+    bottom:417.3rem;
+    height: 230px;
+  }
+  
+  
+  .py-12 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-12 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 25%;
+    margin: 10px;
+    left:74%;
+    bottom: 426.6rem;
+  height: 400px;
+  }
+  
+  .py-13 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-13 {
+    border: 1px solid #ccc;
+    position:absolute;
+    width: 25%;
+   margin: 10px;
+   left: 25.4%;
+   bottom: 453.3rem;
+   height: 400px;
+  } 
+  
+  
+  .py-14 img {
+    width: 100%;
+    height: 87%;
+  }
+  
+  .py-14 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 25%;
+    margin: 10px;
+    bottom:478rem;
+    left: 74%;
+    height: 400px;
+  }
+  .py-15 {
+    border: 1px solid #ccc;
+    position: absolute;
+    width: 22.5%;
+    margin: 10px;
+    bottom:458.5rem;
+    left: 51%;
+    height: 300px;
+  }
+
+  .py-15 img {
+    width: 100%;
+    height: 82%;
+  }
+  
+  .view{
+    position: absolute;
+    color: black;
+    margin:5px;
+    padding: 5px;
+    background-color: brown;
+  left: 24%;
+  bottom: 8px;
+  border-radius: 15px;
+  width: 55%;
+  cursor: pointer;
+
+}  
+.view:hover{
+  opacity: 0.8;
+}
+
+      
+  
+  
+  
